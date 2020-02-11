@@ -13034,11 +13034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp2.0\\OpenShiftApp\\OpenShiftApp.csproj",
+      "projectUniqueName": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp\\OpenShiftApp\\OpenShiftApp.csproj",
       "projectName": "OpenShiftApp",
-      "projectPath": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp2.0\\OpenShiftApp\\OpenShiftApp.csproj",
+      "projectPath": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp\\OpenShiftApp\\OpenShiftApp.csproj",
       "packagesPath": "C:\\Users\\onur_\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp2.0\\OpenShiftApp\\obj\\",
+      "outputPath": "D:\\Code\\WorkShop\\OpenShift\\OpenShiftApp\\OpenShiftApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

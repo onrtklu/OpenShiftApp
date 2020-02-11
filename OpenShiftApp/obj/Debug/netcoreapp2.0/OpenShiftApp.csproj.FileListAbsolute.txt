@@ -9,3 +9,14 @@ D:\Code\WorkShop\OpenShift\OpenShiftApp2.0\OpenShiftApp\obj\Debug\netcoreapp2.0\
 D:\Code\WorkShop\OpenShift\OpenShiftApp2.0\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.AssemblyInfo.cs
 D:\Code\WorkShop\OpenShift\OpenShiftApp2.0\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.dll
 D:\Code\WorkShop\OpenShift\OpenShiftApp2.0\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.pdb
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\bin\Debug\netcoreapp2.0\OpenShiftApp.deps.json
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\bin\Debug\netcoreapp2.0\OpenShiftApp.runtimeconfig.json
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\bin\Debug\netcoreapp2.0\OpenShiftApp.runtimeconfig.dev.json
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\bin\Debug\netcoreapp2.0\OpenShiftApp.dll
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\bin\Debug\netcoreapp2.0\OpenShiftApp.pdb
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.csprojAssemblyReference.cache
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.csproj.CoreCompileInputs.cache
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.AssemblyInfoInputs.cache
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.AssemblyInfo.cs
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.dll
+D:\Code\WorkShop\OpenShift\OpenShiftApp\OpenShiftApp\obj\Debug\netcoreapp2.0\OpenShiftApp.pdb
